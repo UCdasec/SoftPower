@@ -1,4 +1,4 @@
-# softPower
+# SoftPower
 
 ** The dataset and code are for research purpose only**
 
