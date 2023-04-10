@@ -6,6 +6,8 @@
 ## Reference
 When reporting results that use the dataset or code in this repository, please cite the paper below:
 
+Chenggang Wang, Mabon Ninan, Shane Reilly, Joel Ward, William Hawkins, Boyang Wang, John M Emmert, "Portability of Deep-Learning Side-Channel Attacks against Software Discrepancies," In Proceedings of the 16th ACM Conference on Security and Privacy in Wireless and Mobile
+Networks (WiSec’23), May 29-June 1, 2023, Guildford, United Kingdom.
 
 ## Requirements
 This project is written in Python 3.6, Tensorflow 2.3.1 and Pytorch 1.8.1. Our experiments is running with a GPU machine.
