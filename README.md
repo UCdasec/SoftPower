@@ -40,8 +40,9 @@ The codebased include 3 folders: cnn, triplet and tools
 
 
 # Contacts
-Chenggang Wang wang2c9@mail.uc.edu
+Mabon Ninan ninanmm@mail.uc.edu
 
 Boyang Wang wang2ba@ucmail.uc.edu
 
-Mabon Ninan ninanmm@mail.uc.edu
+Chenggang Wang wang2c9@mail.uc.edu
+
